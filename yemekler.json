@@ -1,57 +1,57 @@
 ﻿{"yemekler":[
 	{
 	"yemek_id":1,
-	"yemek_adi":"Yemek Adi",
+	"yemek_adi":"Mantarlı Domates Çorbası",
 	"yemek_aciklama":"Yemek Detayları"
-	"yemek_tur":""
-	"yemek_pisirme_suresi":""
-	"yemek_hazirlama_suresi":""
-	"yemek_kisi_sayisi":""
-	"yemek_resim":""
-	"yemek_malzemeler":""
+	"yemek_tur":"Çorbalar"
+	"yemek_pisirme_suresi":"20 dk"
+	"yemek_hazirlama_suresi":"10 dk"
+	"yemek_kisi_sayisi":"4-6"
+	"yemek_resim":"http://www.hizliyemektarifi.com/wp-content/uploads/2017/01/mantarli-domates-corbasi-300x225.jpg"
+	"yemek_malzemeler":"2 yemek kasıgı tepeleme un, 2 yemek kaşığı tereyagı vs."
 	},
 	{
 	"yemek_id":2,
-	"yemek_adi":"",
-	"yemek_aciklama":""
-	"yemek_tur":""
-	"yemek_pisirme_suresi":""
-	"yemek_hazirlama_suresi":""
-	"yemek_kisi_sayisi":""
-	"yemek_resim":""
-	"yemek_malzemeler":""
+	"yemek_adi":"Sütlaç Tarifi",
+	"yemek_aciklama":"Yemek Detayları"
+	"yemek_tur":"Çorbalar"
+	"yemek_pisirme_suresi":"20 dk"
+	"yemek_hazirlama_suresi":"10 dk"
+	"yemek_kisi_sayisi":"4-6"
+	"yemek_resim":"http://www.hizliyemektarifi.com/wp-content/uploads/2017/01/mantarli-domates-corbasi-300x225.jpg"
+	"yemek_malzemeler":"2 yemek kasıgı tepeleme un, 2 yemek kaşığı tereyagı vs."
 	},
 	{
 	"yemek_id":3,
-	"yemek_adi":"",
-	"yemek_aciklama":""
-	"yemek_tur":""
-	"yemek_pisirme_suresi":""
-	"yemek_hazirlama_suresi":""
-	"yemek_kisi_sayisi":""
-	"yemek_resim":""
-	"yemek_malzemeler":""
+	"yemek_adi":"Karnı Yarık",
+	"yemek_aciklama":"Yemek Detayları"
+	"yemek_tur":"Çorbalar"
+	"yemek_pisirme_suresi":"20 dk"
+	"yemek_hazirlama_suresi":"10 dk"
+	"yemek_kisi_sayisi":"4-6"
+	"yemek_resim":"http://www.hizliyemektarifi.com/wp-content/uploads/2017/01/mantarli-domates-corbasi-300x225.jpg"
+	"yemek_malzemeler":"2 yemek kasıgı tepeleme un, 2 yemek kaşığı tereyagı vs."
 	},
 	{
 	"yemek_id":4,
-	"yemek_adi":"",
-	"yemek_aciklama":""
-	"yemek_tur":""
-	"yemek_pisirme_suresi":""
-	"yemek_hazirlama_suresi":""
-	"yemek_kisi_sayisi":""
-	"yemek_resim":""
-	"yemek_malzemeler":""
+	"yemek_adi":"Mantarlı Domates Çorbası",
+	"yemek_aciklama":"Yemek Detayları"
+	"yemek_tur":"Çorbalar"
+	"yemek_pisirme_suresi":"20 dk"
+	"yemek_hazirlama_suresi":"10 dk"
+	"yemek_kisi_sayisi":"4-6"
+	"yemek_resim":"http://www.hizliyemektarifi.com/wp-content/uploads/2017/01/mantarli-domates-corbasi-300x225.jpg"
+	"yemek_malzemeler":"2 yemek kasıgı tepeleme un, 2 yemek kaşığı tereyagı vs."
 	},
 	{
 	"yemek_id":5,
-	"yemek_adi":"",
-	"yemek_aciklama":""
-	"yemek_tur":""
-	"yemek_pisirme_suresi":""
-	"yemek_hazirlama_suresi":""
-	"yemek_kisi_sayisi":""
-	"yemek_resim":""
-	"yemek_malzemeler":""
+	"yemek_adi":"Mantarlı Domates Çorbası",
+	"yemek_aciklama":"Yemek Detayları"
+	"yemek_tur":"Çorbalar"
+	"yemek_pisirme_suresi":"20 dk"
+	"yemek_hazirlama_suresi":"10 dk"
+	"yemek_kisi_sayisi":"4-6"
+	"yemek_resim":"http://www.hizliyemektarifi.com/wp-content/uploads/2017/01/mantarli-domates-corbasi-300x225.jpg"
+	"yemek_malzemeler":"2 yemek kasıgı tepeleme un, 2 yemek kaşığı tereyagı vs."
 	}
 ]}
